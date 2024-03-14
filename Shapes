@@ -1,9 +1,8 @@
-# File: HW3B
+# File: Shapes
 # Author: Cameron Cox
 # UT EID: cpc2526
 # Course: cs303E
-#
-# Date: 9/20/2023
+
 # Description of program: Draws a user-determined shape
 
 import turtle
